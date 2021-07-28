@@ -1,0 +1,32 @@
+.login-container {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.login-input {
+  background: #eee;
+  padding: 0 8px;
+  width: 300px;
+}
+
+.login-btn {
+  background: #fcce03;
+  padding: 0 8px;
+  width: 316px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+}
+
+.login-input,
+.login-btn {
+  margin-top: 16px;
+  border-radius: 8px;
+  height: 40px;
+}
