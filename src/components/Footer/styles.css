@@ -1,0 +1,15 @@
+.footer {
+  width: 100%;
+  height: 52px;
+  background: #FFF;
+  border-radius: 12px 12px 0 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+.footer div {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  color: rgba(0, 0, 0, 0.801);
+}

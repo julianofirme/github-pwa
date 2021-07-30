@@ -27,8 +27,8 @@
 }
 
 .profile-follows-repos {
-  display: flex;
-  justify-content: space-around;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   background: #383838;
   margin: 12px 0;
 }

@@ -38,12 +38,12 @@ function ProfileInfo() {
 
         <div className="profile-following">
           <h1>32</h1>
-          <p>Seguidores</p>
+          <p>Seguindo</p>
         </div>
 
         <div className="profile-repositorys">
           <h1>32</h1>
-          <p>Seguidores</p>
+          <p>Repos</p>
         </div>
       </section>
 
