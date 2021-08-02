@@ -1,0 +1,22 @@
+.repo-container {
+  padding: 12px;
+  border-bottom: 1px solid rgba(114, 114, 114, 0.582);
+}
+
+.repo-info > span {
+  display: inline-block;
+  margin-bottom: 4px;
+  color: rgba(238, 238, 238, 0.753);
+}
+
+.repo-starts {
+  display: flex;
+  align-items: center;
+  color: rgba(238, 238, 238, 0.753);
+}
+
+.repo-label {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
